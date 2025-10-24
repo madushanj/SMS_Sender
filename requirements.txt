@@ -1,0 +1,3 @@
+mysql-connector-python==8.2.0
+pyserial==3.5
+python-gsmmodem-new==0.13.0
